@@ -8,7 +8,7 @@ Waze, a free navigation app owned by Google, makes it easier for drivers around 
 
 ## **Project Goal**
 
-The objective of this project is to develop a machine-learning model capable of predicting user churn. A well-performing model would help reduce churn, improve user retention, and drive Waze’s business growth.
+The objective of this project is to **develop a machine-learning model** capable of **predicting user churn**. A well-performing model would help reduce churn, improve user retention, and drive Waze’s business growth.
 
 ## **Project Details**
 

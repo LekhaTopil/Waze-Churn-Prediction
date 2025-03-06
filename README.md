@@ -26,15 +26,15 @@ Each phase played a crucial role in understanding churn dynamics and evaluating 
 
 ## **1. Exploratory Data Analysis**
 
-The project began with an in-depth Exploratory Data Analysis, where I:
+The project began with an in-depth **Exploratory Data Analysis**, where I:
 
 •	Examined missing values to assess patterns and randomness. 
 
 •	Analyzed data distributions to detect skewness.
 
-•	Engineered new features to better capture churn-related behaviors.
+•	**Engineered new features** to better capture churn-related behaviors.
 
-•	Handled outliers using percentile-based thresholds to maintain data integrity and realistic expectations.
+•	Handled outliers using **percentile-based thresholds** to maintain data integrity and realistic expectations.
 
 ## **2. Hypothesis Testing**
 
